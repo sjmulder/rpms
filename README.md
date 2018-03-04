@@ -6,4 +6,5 @@ Includes specs for:
  - [nostt](https://github.com/sjmulder/nostt), a command line NOS Teletekst
    reader
 
-Built RPMs are uploaded to their respective packages.
+Built RPMs are uploaded to their respective projects. Tags are created for
+every RPM release.
